@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d6bd98;
+  color: #603f26;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.titulo {
+  background-color: #1a3636;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.menu {
+  background: #40534c;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.menu a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.contenido {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.imagen {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+marquee {
+  color: red;
+  font-size: 50px;
+  margin-top: 50px;
+}
